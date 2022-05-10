@@ -1,2 +1,3 @@
 # Pruebas
-Repo para probar nuevas funcionalidades
+El repo cumple la funcionalidad de probar la conexion entre Github y Colab 
+
